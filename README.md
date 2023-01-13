@@ -1,5 +1,6 @@
 # FIFA Women's World Cup Prediction with ML😎
-
+ (https://github.com/begolazoeg/FIFA-Women-s-World-Cup-ML/blob/main/winning_fifa.png)
+ 
 ## Little summary
 Hi, this is my first public project on GitHub.  In a nutshell, I'm building as the final project of my AllWomen bootcamp, a (supervised) machine learning model to predict the results of the 2023 women's world cup football tournament. 
 
