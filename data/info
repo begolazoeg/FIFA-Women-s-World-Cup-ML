@@ -1,0 +1,1 @@
+This folder contains the database used, and the csv's with the matches from Groups phase until the Final and Third place match. These csv matches ares used in the prediction model, thos docs are the 'input' data for the model when predicting. 
