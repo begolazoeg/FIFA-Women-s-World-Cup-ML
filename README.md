@@ -25,4 +25,4 @@ To perform the above, I rely on the dataset provided in Kagle by Mart Jürisoo, 
 6. Model evaluation: Evaluate the performance of the model using performance metrics such as accuracy, precision, and recall. After hyperparameter tuning, an accuracy of 74.7% was achieved.
 
 ## Result!
-![alt text]([https://github.com/begolazoeg/FIFA-Women-s-World-Cup-ML/blob/main/4454.jpg?raw=true](https://github.com/begolazoeg/FIFA-Women-s-World-Cup ML/blob/main/Road.PNG?raw=true))
+![final-results-roadmap](https://github.com/begolazoeg/FIFA-Women-s-World-Cup-ML/blob/main/4454.jpg?raw=true](https://github.com/begolazoeg/FIFA-Women-s-World-Cup ML/blob/main/Road.PNG?raw=true)
